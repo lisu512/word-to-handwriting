@@ -1,0 +1,7 @@
+pillow>=9.0.0
+python-docx>=0.8.11
+numpy>=1.21.0
+handright>=2.0.0
+opencv-python>=4.5.0
+docx2pdf>=0.1.8
+PyPDF2>=2.0.0 
